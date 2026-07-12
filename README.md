@@ -1,18 +1,67 @@
-# 💫 About Me:
-Hey, I'm Ayush 👋  <br><br>- 🧑‍💻 Full Stack Developer (MERN + TypeScript)<br>- 🦀 Moving into Web3 with Rust<br>- ⚡ Love building scalable and clean backend systems<br>- 🔗 Exploring blockchain, smart contracts & decentralized apps<br><br>Currently:<br>- Learning Rust & Solana ecosystem<br>- Building real-world projects in Web3<br><br>Goal:<br>- Become a Web3 / Blockchain Engineer
+<h1 align="center">Hi, I'm Ayush 👋</h1>
+<h3 align="center">Full-Stack & Mobile Developer</h3>
 
+<p align="center">
+I build clean, scalable web and mobile apps with React, Next.js, React Native, and Node.js.
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ayushman2006) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raiayush72757@gmail.com) 
+<br>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Ayush-7275&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Ayush-7275&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ayush-7275&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+### 🚀 What I'm Focused On
+- 🌐 **Full-Stack Development** — Next.js, React, Node.js/Express, PostgreSQL, MongoDB
+- 📱 **Mobile Development** — React Native & Expo
+- 🔌 Real-time systems with WebSockets
+- 🧠 Currently exploring agentic AI tooling (custom MCP servers)
 
----
-[![](https://komarev.com/ghpvc/?username=Ayush-7275&icon=0&color=0)](https://visitcount.itsvg.in)
+### 🛠️ Featured Projects
+- **[ExcaliCollab](https://github.com/Ayush-7275)** — Real-time collaborative whiteboard (Next.js, WebSockets, Turborepo monorepo)
+- **[Recurrly](https://github.com/Ayush-7275)** — Subscription tracking dashboard (React Native, Expo Router, NativeWind, Clerk)
+- **[Invoice Management Dashboard](https://github.com/Ayush-7275)** — Full-stack invoicing app (Next.js 15, Express, MongoDB)
+- **[SolScan Mobile](https://github.com/Ayush-7275)** — Blockchain explorer mobile app (React Native, Expo, TypeScript)
+- **[Pokédex App](https://github.com/Ayush-7275)** — PokéAPI-powered mobile app (Expo Router, TypeScript)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br>
+
+## 🌐 Connect With Me
+<p align="left">
+<a href="https://linkedin.com/in/ayushman2006" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:raiayush72757@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
+
+## 💻 Tech Stack
+
+<p align="left">
+<img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/react_native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" />
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/postgresql-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/mongodb-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white" />
+<img src="https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+</p>
+
+<br>
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.shion.dev/api?username=Ayush-7275&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" height="165" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ayush-7275&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" height="165" />
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=Ayush-7275&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Ayush-7275&color=0e75b6&style=flat" alt="profile views" />
+</p>
