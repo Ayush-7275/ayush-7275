@@ -1,8 +1,7 @@
 <h1 align="center">Hi, I'm Ayush 👋</h1>
-<h3 align="center">Full-Stack & Mobile Developer</h3>
 
 <p align="center">
-I build clean, scalable web and mobile apps with React, Next.js, React Native, and Node.js.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;React+Native+%2B+Expo;Building+clean%2C+scalable+apps" alt="Typing animation" />
 </p>
 
 <br>
@@ -64,4 +63,22 @@ I build clean, scalable web and mobile apps with React, Next.js, React Native, a
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Ayush-7275&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+<br>
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ayush-7275/Ayush-7275/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ayush-7275/Ayush-7275/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Ayush-7275/Ayush-7275/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<br><br>
+
+## 🏆 Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Ayush-7275&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" />
 </p>
